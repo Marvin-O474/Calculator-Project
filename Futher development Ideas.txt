@@ -1,0 +1,1 @@
+In future itiratations of the calculator project, we can integrate a component tester with it. 

@@ -1,0 +1,2 @@
+Using one arduino pin (analog pin A0) to read the inputs of a 4X4 keypad was unsuccessful due to the transient fluctuatuion of voltages read
+by the pin form the voltage divider circuit. 
